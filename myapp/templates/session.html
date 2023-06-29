@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RAJ</title>
+</head>
+<body>
+  <h1 align="center">Login Successfull</h1>
+  <br>
+  <p align="center">Welcome , {{ request.session.logname }}</p>
+    <br/>
+
+    <center><a href="{% url 'logout' %}">LogOut</a></center>
+</body>
+</html>
