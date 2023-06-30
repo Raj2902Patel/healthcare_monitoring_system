@@ -2,5 +2,7 @@
 
 Hey There!
 
-In this project we use verius types of sensor nd api services..
-we use very types of language so you can understand everylanguage basics concepts...
+  IOT BASED HEALTHCARE MONITORING SYSTEM
+  PROJECT FOR COLLEGE STUDENTS
+
+Thank You.
